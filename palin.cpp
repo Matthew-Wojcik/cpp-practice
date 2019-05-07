@@ -1,7 +1,7 @@
 /**
  * palin.cpp
  *
- * to compile:
+ * to compile(c++11 required):
  *		g++ palin.cpp -o palin
  *
  * to run(where test.txt is an input file):
