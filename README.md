@@ -13,6 +13,8 @@ palindrome is used to determine whether a file populated with strings contains a
 ---
 download the files contained; palin.cpp, and test.txt
 
+the test file is just for simple testing, and to show that no formatting of the input file other than words being seperated is needed
+
 to compile (c++ 11 required), in directory where palin.cpp exists
 
 ```
