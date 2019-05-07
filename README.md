@@ -6,7 +6,8 @@ palindrome is used to determine whether a file populated with strings contains a
 - the program will only print out full length palindromes. Example, if abxba is present in a string it will print abxba and not print bxb
 - a the program will ignore duplicates, printing out the positioning of the first occurence of a palindrome
 - a palindrome is case sensitive, a single character is not a palindrome
--	a word is seperated by a number of spaces or new lines in the file given as input
+-	a word is seperated by a number of spaces or new lines in the file given as input. Given this, a sentence can not be determined to be a palindrome
+- the program is intended for use with visible ascii character
 
 ## Getting Started
 ---
