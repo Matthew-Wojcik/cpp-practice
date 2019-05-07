@@ -1,10 +1,11 @@
 # Palindrome
 ---
 
-palindrome is used to determine whether a file populated with words contains any palindromes. A word is described as a string of visible ascii characters terminated with a space or new line character.
+palindrome is used to determine whether a file populated with words contains any palindromes.
 
-- the program will only print out full length palindromes. Example, if abxba is present in a string it will print abxba and not print bxb
-- a the program will ignore duplicates, printing out the positioning of the first occurence of a palindrome
+- a word is described as a string of visible ascii characters terminated with a space or new line character
+- the program will only print out full length palindromes. Example, if abxba is present in a word it will print abxba and not print bxb
+- a the program will ignore duplicate palindromes, printing out the positioning of the first occurence of a full palindrome within a word
 - a palindrome is CASE SENSITIVE string that reads the same as when reversed, a single character is not a palindrome
 -	a word is seperated by a number of spaces or new lines in the file given as input. Given this, a sentence can not be determined to be a palindrome
 - the program is intended for use with visible ascii characters
@@ -26,3 +27,7 @@ to run, in directory where palin.exe and test.txt exist
 ./palin test.txt
 ```
 to use, replace "test.txt" with your text file containing words
+
+## Author
+
+* **Matthew Wojcik** - *Initial work* - [Matthew Wojcik](https://github.com/Matthew-Wojcik)
