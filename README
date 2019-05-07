@@ -1,5 +1,0 @@
-#Palindrome
----
-
-The program palin.cpp contained within is used to determine whether a file populated with space or newline 
-seperated strings contains any palindromes.
