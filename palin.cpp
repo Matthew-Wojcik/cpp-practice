@@ -18,6 +18,8 @@
  *		occurence of a palindrome
  * 
  * 		a palindrome is case sensitive, a single character is not a palindrome
+ * 
+ *		a word is seperated by a space or a new line in the file given as input
  *
  * @author Matthew Wojcik
  * @version 1 2019-05-06
